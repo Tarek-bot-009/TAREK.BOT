@@ -1,5 +1,5 @@
 // set bash title
-process.stdout.write("\x1b]2;Goat Bot V2 - Made by NTKhang\x1b\x5c");
+process.stdout.write("\x1b]2;BADOL-BOT-007 Modified BADOL-CHOWDHURY\x1b\x5c");
 const defaultRequire = require;
 
 function decode(text) {
@@ -77,10 +77,10 @@ const titles = [
 		"█▄█ █▄█ █▀█ ░█░  █▄█ █▄█ ░█░  ▀▄▀ █▄"
 	],
 	[
-		"G O A T B O T  V 2 @" + currentVersion
+		"B A D O L B O T 0 0 7 @" + currentVersion
 	],
 	[
-		"GOATBOT V2"
+		"BADOL-BOT-007"
 	]
 ];
 const maxWidth = process.stdout.columns;
