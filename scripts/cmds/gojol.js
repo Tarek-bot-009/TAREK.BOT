@@ -1,12 +1,12 @@
-.cmd install gojol.js module.exports.config = {
+module.exports.config = {
 
   name: "gojol",
 
   version: "1.0.1",
 
-  role: 2,
+  role: 0,
 
-  author: "♕𝙼𝟿𝙷𝟺𝙼//**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/tarek.20.king **//𝚃𝙰𝚁𝙴𝙺♕",
+  author: "♕𝙼𝟿𝙷𝟺𝙼𝙼𝟺𝙳☞𝙱𝟺𝙳𝟿𝙻♕",  //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://www.facebook.com/tarek.20.king
 
   description: "get Islamic gojol",
 
