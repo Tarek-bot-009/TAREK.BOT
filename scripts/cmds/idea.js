@@ -6,7 +6,7 @@ module.exports.config = {
 
 	role: 2,
 
-	author: "MOHAMMAD-BADOL",
+	author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
 
 	description: "ida",
 
